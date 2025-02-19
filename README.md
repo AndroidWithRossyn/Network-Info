@@ -83,11 +83,6 @@ Also, [follow me on GitHub](https://github.com/AndroidWithRossyn/) for my next c
 
 
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ### :zap: Latest Medium Articles
 
 <!-- ARTICLES:START -->
